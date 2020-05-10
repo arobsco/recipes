@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Receipe Name
+---
 # Name of food
 ![Image of finished product](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Image of finished product")
 
