@@ -4,19 +4,21 @@ title: Sourdough Pizza Dough
 ---
 Slow proved sourdough pizza dough
 ## Yields
-Weight: 592g
-Hydration: 69% (includes 100% starter hydration)
-Yield: 2x290g balls
+- Weight: 592g
+- Hydration: 69% (includes 100% starter hydration)
+- Yield: 2x290g balls
+
 Weight includes a small extra
 
 ## Ingredients
-Amount|Ingredient|Notes 
----|---|---
-285g|Type 00 Flour
-32g|Spelt or other flavourful flour
-212g|Water
-9g|Salt
-47g|Active Sourdough Starter
+|---
+|Amount|Ingredient|Notes 
+|:-:|:-:|:-:
+|285g|Type 00 Flour
+|32g|Spelt or other flavourful flour
+|212g|Water
+|9g|Salt
+|47g|Active Sourdough Starter
 ## Equipment 
 - Stand mixer
 ## Method
